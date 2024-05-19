@@ -1,0 +1,2 @@
+// A script that laists all documets with name="Holberton school"
+db.school.find( { "name" : "Holberton school" } )
